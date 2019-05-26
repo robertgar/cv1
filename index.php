@@ -8,7 +8,7 @@
 
      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <link href='http://fonts.googleapis.com/css?family=Josefin+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    
      <link rel="stylesheet" href="style.css">
  <link rel="stylesheet" href="assets/css/cssprogress.css">
 </head>
