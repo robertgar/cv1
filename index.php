@@ -1,6 +1,5 @@
 <?php
 ?>
-
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -49,8 +48,8 @@
  <div class="cssProgress col-sm-8">
     <h3>PHP</h3>
           <div class="progress2">
-            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 65%;">
-              <span class="cssProgress-label">65%</span>
+            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 60%;">
+              <span class="cssProgress-label">60%</span>
             </div>
           </div>
         </div>
@@ -66,24 +65,24 @@
         <div class="cssProgress col-sm-8">
     <h3>CSS</h3>
           <div class="progress2">
-            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 65%;">
-              <span class="cssProgress-label">65%</span>
+            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 45%;">
+              <span class="cssProgress-label">45%</span>
             </div>
           </div>
         </div>
          <div class="cssProgress col-sm-8">
     <h3>Booststrap</h3>
           <div class="progress2">
-            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 65%;">
-              <span class="cssProgress-label">65%</span>
+            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 55%;">
+              <span class="cssProgress-label">55%</span>
             </div>
           </div>
         </div>
     <div class="cssProgress col-sm-8">
     <h3>Python</h3>
           <div class="progress2">
-            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 65%;">
-              <span class="cssProgress-label">65%</span>
+            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 30%;">
+              <span class="cssProgress-label">30%</span>
             </div>
           </div>
         </div> 
@@ -91,8 +90,8 @@
            <div class="cssProgress col-sm-8">
     <h3>netbeans java</h3>
           <div class="progress2">
-            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 65%;">
-              <span class="cssProgress-label">65%</span>
+            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 35%;">
+              <span class="cssProgress-label">35%</span>
             </div>
           </div>
         </div> 
@@ -107,24 +106,24 @@
         <div class="cssProgress col-sm-8">
           <h3>Oracle</h3>
           <div class="progress2">
-            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 65%;">
-              <span class="cssProgress-label">65%</span>
+            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 40%;">
+              <span class="cssProgress-label">40%</span>
             </div>
           </div>
         </div>
         <div class="cssProgress col-sm-8">
  <h3>Sql-server</h3>
           <div class="progress2">
-            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 65%;">
-              <span class="cssProgress-label">65%</span>
+            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 40%;">
+              <span class="cssProgress-label">40%</span>
             </div>
           </div>
         </div>
         <div class="cssProgress">
            <h3>Mongdb</h3>
           <div class="progress2">
-            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 65%;">
-              <span class="cssProgress-label">65%</span>
+            <div class="cssProgress-bar cssProgress-success cssProgress-active" data-percent="65" style="width: 20%;">
+              <span class="cssProgress-label">20%</span>
             </div>
           </div>
         </div>
@@ -135,7 +134,7 @@
  <section id="bloque3">
 
  
-        <h1>Educacion</h1>
+        <h1>Formacion Academica</h1>
 <div class="page">
   <div class="page__demo">
     <div class="main-container page__container">
@@ -144,55 +143,31 @@
           
           <div class="timeline__box">
             <div class="timeline__date">
-              <span class="timeline__day">2013</span>
+              <span class="timeline__day">2018</span>
               <span class="timeline__month">2013</span>
             </div>
             <div class="timeline__post">
               <div class="timeline__content">
-                <p>Attends the Philadelphia Museum School of Industrial Art. Studies design with Alexey Brodovitch, art director at Harper's Bazaar, and works as his assistant.</p>
+                <p align="center"><b>Cierre de pensum en Ingenieria en sistema</b> 
+               <br> Univesidad Mariano Galvez de Guatemala</br></p>
               </div>
             </div>
           </div>
           <div class="timeline__box">
             <div class="timeline__date">
-              <span class="timeline__day">2013</span>
-              <span class="timeline__month">2013</span>
+              <span class="timeline__day">2011</span>
+              <span class="timeline__month">2009</span>
             </div>
             <div class="timeline__post">
               <div class="timeline__content">
-                <p>Started from University of Pennsylvania. This is an important stage of my career. Here I worked in the local magazine. The experience greatly affected me</p>
+               <p align="center"><b>Maestro de educacion primaria</b> 
+               <br> </br></p>
               </div>
             </div>
           </div>
         </div>
-        <div class="timeline__group">
-          <br>
-          <div class="timeline__box">
-            <div class="timeline__date">
-              <span class="timeline__day">2013</span>
-              <span class="timeline__month">2013</span>
-            </div>
-            <div class="timeline__post">
-              <div class="timeline__content">
-                <p>Travels to France, Italy, Spain, and Peru. After completing fashion editorial in Lima, prolongs stay to make portraits of local people in a daylight studio</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="timeline__group">
-          <br>
-          <div class="timeline__box">
-            <div class="timeline__date">
-              <span class="timeline__day">2013</span>
-              <span class="timeline__month">2013</span>
-            </div>
-            <div class="timeline__post">
-              <div class="timeline__content">
-                <p>Upon moving to Brooklyn that summer, I began photographing weddings in Chicago</p>
-              </div>
-            </div>
-          </div>
-        </div>
+     
+     
       </div>
     </div>
   </div>
@@ -205,13 +180,32 @@
         
     <section id="bloque4">
 
-
+        
+<div class="container">
  
+       <h1>Curso y Seminarios</h1>
+        <div class="row">
+         <div class="contact1">    
+ 
+      
+  <div class="list-group">
+    <a  class="list-group-item list-group-item-success"><h4 class="list-group-item-heading"><b>Instacion de software libre</b></h4>
+     <p class="list-group-item-text">Universidad Mariano Galvez</p></a>
 
-            <h2>Hasta pronto</h2>
-         
-        </section>
+
+    <a class="list-group-item list-group-item-info"><h4 class="list-group-item-heading"><b>NDG Linux</b></h4>
+    <p class="list-group-item-text">Cisco Networking Academy</p></a>
+
+
+    <a  class="list-group-item list-group-item-warning"><h4 class="list-group-item-heading"><b>Introduccion a la seguridad Cibernetica</b></h4>
+      <p class="list-group-item-text">Cisco Networking Academy</p></a>
+  </div>
+</div>
+</div>
+</div>
+      </section>
 
     </div>
 </body>
 </html>
+
